@@ -6,5 +6,6 @@ end
 
 
 def countdown
+  number = 10
 end
 
